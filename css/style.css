@@ -93,9 +93,7 @@ body {
     color: var(--dark-pink-color);
 }
 
-/*.promotions {
-    margin: 0 0 97px;
-}*/
+
 
 .promotions__list {
     display: flex;
